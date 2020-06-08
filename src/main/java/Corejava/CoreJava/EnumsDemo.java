@@ -22,12 +22,10 @@ public class EnumsDemo
 }
  enum Course
 {
-	CSE("cse"),ECE("ece");
+	CSE,ECE;
 	 private String value;
 
-	 private Course(String value) {
-			this.value = value;
-		}
+	
 	 
 	 
 }

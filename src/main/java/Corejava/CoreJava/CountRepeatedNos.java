@@ -9,6 +9,7 @@ public class CountRepeatedNos
     int[] a = {1,2,3,1};
     int n = a.length;
     System.out.println(countRepeatedNum(a,n));
+	System.out.println("addedd");
 	}
 
 	private static int countRepeatedNum(int[] a, int n) {
